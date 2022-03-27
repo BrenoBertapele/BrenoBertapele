@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo ao meu Readme.
+### Hi There! Welcome do my Readme profile section.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoBertapele&show_icons=true&theme=dark)
