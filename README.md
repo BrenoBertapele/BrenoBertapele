@@ -1,9 +1,9 @@
 ### Hi There! Welcome to my readme profile section.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoBertapele&show_icons=true&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=BrenoBertapele&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoBertapele&layout=compact)](https://github.com/BrenoBertapele/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoBertapele&layout=compact)](https://github.com/BrenoBertapele/github-readme-stats)
 
 
 <div> 
