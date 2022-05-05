@@ -1,13 +1,12 @@
 
-### Hi there! Welcome do my profile.
+### Hi there! Welcome to my profile!
 
-My name is Breno.
-===================================
+My name is Breno and i`m a Software Developer.
+=============================================
 
-i`m a Software Developer.
+i`m focused in Front-end development and i use some tools like React, Node, JavaScript and TypeScript to build some of my projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoBertapele&show_icons=true&theme=dark)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoBertapele&layout=compact)](https://github.com/BrenoBertapele/github-readme-stats)
