@@ -4,7 +4,7 @@
 My name is Breno and i`m a Software Developer.
 =============================================
 
-i`m focused in Front-end development and i use some tools like React, Node, JavaScript and TypeScript to build some of my projects.
+i`m focused in Front-end development and i use some tools like ReactJS, NodeJS, NextJS and JavaScript to build some of my projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoBertapele&show_icons=true&theme=dark)
 
