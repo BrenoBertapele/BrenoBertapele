@@ -1,8 +1,8 @@
 
 ### Hi there! Welcome to my profile!
-
-My name is Breno and i`m a Software Developer.
 =============================================
+
+## My name is Breno and i`m a Software Developer.
 
 i`m focused in Front-end development and i use some tools like ReactJS, NodeJS, NextJS and JavaScript to build some of my projects.
 
