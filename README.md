@@ -10,7 +10,6 @@ I`m focused in Front-end development and i use some tools like HTML, CSS, ReactJ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoBertapele&layout=compact)](https://github.com/BrenoBertapele/github-readme-stats)
 
-
 <div> 
   <a href="https://instagram.com/b.bertapele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bertapele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
